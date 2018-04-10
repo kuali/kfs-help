@@ -30,7 +30,7 @@ var ALT_OPEN_BOOK_TOPIC = "Open book with topic";
 var ALT_TOPIC = "Topic";
 var TITLE_HOT_SPOT_JUMP = "link";
 var USE_SECTION_508 = "no";
-var g_DefaultURL = "default.htm";
+var g_DefaultURL = "index.html";
 var g_TopicMargin = 7;
 var g_BorderMargin = 2;
 
@@ -158,7 +158,7 @@ function d2hSwitchPaneChanging(id)
 
 function d2hGetEMailAddress()
 {
-    return "support@mycompany.com";
+    return "kymber@kuali.co";
 }
 
 function d2hGetEMailSubjectTemplate()
@@ -168,5 +168,5 @@ function d2hGetEMailSubjectTemplate()
 
 function d2hGetProjectID()
 {
-    return "{FEDE2A8E-0FBD-40CE-8FBF-215C237E00CF}";
+    return "{B67F61D9-49B6-4885-B927-4156B805B1A1}";
 }
